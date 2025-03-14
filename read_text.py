@@ -10,6 +10,3 @@ def read_text_file(file_path: str) -> str:
     print("Total Number of character:", len(raw_text))
     print(raw_text[:99])
     return raw_text
-
-
-read_text_file("./the-verdict.txt")

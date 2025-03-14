@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pre-commit>=4.1.0",
+    "pytest>=8.3.5",
     "torch>=2.6.0",
 ]
