@@ -1,0 +1,4 @@
+ipykernel>=6.29.5
+pre-commit>=4.1.0
+pytest>=8.3.5
+torch>=2.6.0

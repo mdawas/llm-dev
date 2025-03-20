@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/llm_dev/__init__.py
+src/llm_dev.egg-info/PKG-INFO
+src/llm_dev.egg-info/SOURCES.txt
+src/llm_dev.egg-info/dependency_links.txt
+src/llm_dev.egg-info/requires.txt
+src/llm_dev.egg-info/top_level.txt
+src/llm_dev/ch2/main.py
+src/llm_dev/ch2/pre_process_text.py
+src/llm_dev/ch2/read_text.py
+src/llm_dev/ch2/simple_tokenizer.py
