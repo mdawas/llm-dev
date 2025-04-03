@@ -2,6 +2,7 @@ from llm_dev.ch2.pre_process_text import split_text_to_tokens
 import re
 
 
+# listing 2.3 A simple text tokenizer.
 class SimpleTokenizerV1:
     def __init__(self, vocab):
         self.str_to_int = vocab
@@ -18,6 +19,7 @@ class SimpleTokenizerV1:
         return text
 
 
+# listing 2.4 A simple text tokenizer that handles unknown words.
 class SimpleTokenizerV2(SimpleTokenizerV1):
     def __init__(self, vocab):
         super().__init__(vocab)
