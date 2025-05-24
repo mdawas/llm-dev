@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: llm-dev
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: ipykernel>=6.29.5
+Requires-Dist: pre-commit>=4.1.0
+Requires-Dist: pytest>=8.3.5
+Requires-Dist: torch>=2.6.0
+
+# llm-dev
+Repo for personal LLM development and learning
